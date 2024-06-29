@@ -7,3 +7,5 @@ xhofe/alist:latest
 
 # drogon库docker镜像
 drogonframework/drogon
+
+ubuntu:24.04
